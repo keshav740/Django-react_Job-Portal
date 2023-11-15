@@ -1,0 +1,47 @@
+.main-midd{
+    padding-top: 20px;
+}
+
+
+.col-md{
+    background-color: #fff;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+.col-md:nth-child(1){
+    margin-right: 10px;
+}
+.d-flex{
+    text-align: center;
+}
+
+.heading{
+    padding-left: 20px;
+}
+
+.nav-link:hover{
+    text-decoration: underline;
+  }
+
+  .nav-link{
+    margin-bottom: 10px;
+  }
+
+
+  .bottom{
+    padding-bottom: 80px;
+  }
+
+
+
+  .col-with-box-shadow {
+    box-shadow: 10px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  @media only screen and (max-width: 768px) {
+    .col-md:nth-child(1) {
+      margin-bottom: 10px;
+    }
+  }

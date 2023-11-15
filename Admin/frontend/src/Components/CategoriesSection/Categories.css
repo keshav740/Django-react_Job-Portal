@@ -1,0 +1,63 @@
+.CateContainer{
+    align-items: center;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.main-container{
+    padding-left: 490px;
+    padding-right: 490px;
+    padding-bottom: 10px;
+    /* padding-top: 20px; */
+}
+
+.heading{
+    font-size: 27;
+    color: rgb(18, 8, 75);
+}
+
+.intext{
+    padding-top: 50px;
+}
+
+.intext > p {
+    font-weight: bold;
+    /* padding-bottom: 0px; */
+}
+
+.form{
+    background-color: white;
+    padding: 20px;
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 1000px) {
+    .main-container {
+      /* background-color: lightblue; */
+      padding-left: 40px;
+      padding-right: 40px;
+      padding-bottom: 40px;
+    }
+  }
+
+
+
+  @media only screen and (max-width: 1255px) {
+    .main-container {
+      /* background-color: lightblue; */
+      padding-left: 40px;
+      padding-right: 40px;
+      padding-bottom: 40px;
+    }
+  }

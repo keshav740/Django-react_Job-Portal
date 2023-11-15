@@ -1,0 +1,14 @@
+/* Navbar.css */
+.navbar {
+    background-color: white;
+  }
+  
+  .navbar-light .navbar-brand,
+  .navbar-light .navbar-nav .nav-link {
+    color: black;
+  }
+
+  .navbar-light .navbar-nav .nav-link:hover{
+    text-decoration: underline;
+  }
+  
