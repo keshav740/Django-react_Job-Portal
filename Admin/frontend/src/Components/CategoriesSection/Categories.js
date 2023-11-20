@@ -18,7 +18,7 @@ const Categories = () => {
           <div className="CateContainer">
             <h1 className="heading">All categories</h1>
             <Col>
-              <div className="text">
+              <div className="text1">
                 <p>
                   Below you will find an overview of everything Mittanbud can
                   help you with. On these links you will find more information
@@ -30,7 +30,7 @@ const Categories = () => {
           <div className="intext">
             <p>Can't find what you're looking for?</p>
           </div>
-          <div className="form">
+          <div className="form-cat">
           <Form inline>
               <FormControl
                 type="text"

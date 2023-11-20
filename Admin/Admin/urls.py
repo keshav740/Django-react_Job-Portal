@@ -4,5 +4,5 @@ from django.urls import path
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', viwes.index, name='index')
+    path('', viwes.index, name='index'),
 ]
